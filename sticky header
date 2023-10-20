@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Sticky Header CSS */
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            transition: top 0.3s;
+            z-index: 1000;
+        }
+
+        .content {
+            margin-top: 70px; /* Adjust this margin to match the header height */
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header" id="myHeader">
+        <h1>Sticky Header</h1>
+    </div>
+
+    <div class="content">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+        <!-- Your website content goes here -->
+    </div>
+
+    <script>
+        window.onscroll = function() {
+            var header = document.getElementById("myHeader");
+            if (window.pageYOffset > 0) {
+                header.style.top = "0";
+            } else {
+                header.style.top = "-100px"; // Adjust this value to match the header height
+            }
+        }
+    </script>
+</body>
+</html>
