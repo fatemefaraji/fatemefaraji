@@ -1,35 +1,45 @@
-# Hi there, I'm Elina 👋
+# 👋 Hi, I'm Elina (Fateme Faraji)
 
-💻 **Full-Stack Developer** | Backend-focused with **Python & FastAPI**  
-⚡ Passionate about building scalable, real-world applications  
-🤖 Currently working on an **AI-powered Mental Health Chatbot** with **DeepSeek**  
+**AI & Machine Learning Engineer | NLP & Chatbot Specialist | Full-Stack Developer**
 
----
-
-### 🔧 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+📧 lenafaraji.ml@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/lenafaraji) | [GitHub](https://github.com/fatemefaraji)  
 
 ---
 
-### 🚀 Featured Project
-🔹 [**The Therapist**](#) – An AI-driven chatbot for mental health support,  
-with conversation memory, personalized responses & sentiment analysis.  
+## 🚀 About Me
+I’m a software engineer specializing in **AI-powered chatbots**, **NLP**, and **Full-Stack Development**.  
+My focus is on building **scalable web applications**, integrating **custom AI models**, and applying **prompt engineering** to deliver intelligent, real-world solutions.  
+
+- 🤖 Experience with **LLMs, Transformers, and Deep Learning models**  
+- 🌐 Skilled in **React.js, Next.js, TailwindCSS** for modern front-end development  
+- ⚡ Passionate about **clean architecture, research-driven development, and AI for healthcare**  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technical Skills
+- **AI & Machine Learning:** TensorFlow, Keras, PyTorch, Transformers, GPT  
+- **NLP:** Text Classification, NER, Sentiment Analysis, Conversational AI  
+- **Back-End:** FastAPI, Flask, SQL  
+- **Front-End:** React.js, Next.js, Redux, Tailwind CSS  
+- **Data Science:** Pandas, NumPy, scikit-learn, Matplotlib  
+- **Tools:** Git, GitHub, Docker, Jupyter, VSCode  
+
+---
+
+## 📌 Featured Projects
+- 🧠 **The Therapist** – AI-driven mental health chatbot (FastAPI + DeepSeek + NLP)  
+- 🤖 **AI Model Optimization** – Research on bias reduction & inference speed improvement in LLMs  
+- 💻 **E-Commerce Platforms** – Scalable front-end apps with React.js & Next.js  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatemefaraji&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemefaraji&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemefaraji&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemefaraji&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-🌱 *“Clean code, modular design, and real-world impact.”*
-
+🌱 *“Merging AI research with clean code to build impactful solutions.”*
