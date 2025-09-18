@@ -43,11 +43,18 @@ Research on bias reduction and inference optimization in language models.
 - Achieved **25% improvement in inference speed** through architectural optimizations  
 - Published findings on model efficiency trade-offs in ethical AI deployment  
 
+### 💻 Image Processing & Computer Vision Projects
+Projects combining classical image processing techniques and deep learning for computer vision.
+- **Image Enhancement & Denoising:** Improved image quality using filters and neural networks  
+- **Object Detection & Segmentation:** Implemented YOLO-based models to detect and segment objects  
+- **Face & Emotion Recognition:** Built real-time facial expression recognition pipelines  
+- **Medical Imaging Applications:** Developed AI models to assist in detecting anomalies in medical scans  
+
 ### 💻 E-Commerce Platform
 Full-stack e-commerce solution with React frontend and FastAPI backend.
 - Created responsive UI components with Tailwind CSS and React  
 - Implemented secure payment processing and user authentication  
-- Optimized performance leading to **40% faster load times**  
+- Optimized performance leading to **40% faster load times**   
 
 ---
 
