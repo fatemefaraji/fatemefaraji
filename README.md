@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Lena
+improve this into better version 
+# 👋 Hi, I'm Lena 
 
 **AI & Machine Learning Engineer | NLP & Chatbot Specialist | Full-Stack Developer**
 
